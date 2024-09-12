@@ -1,2 +1,2 @@
 # Password-Strength-Checker-Extension
-Automatically checks the strength of a password being typed into an html website
+Automatically checks the strength of a password being typed into an html website and tells the user
